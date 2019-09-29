@@ -2,4 +2,7 @@ primer comentario
 
 
 --- segunda version 
-create table cliente 
+create table cliente ( nombre varchar2(10), fcha date, edad number)
+
+ 
+
