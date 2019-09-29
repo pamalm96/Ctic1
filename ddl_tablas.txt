@@ -2,7 +2,12 @@ primer comentario
 
 
 --- segunda version 
-create table cliente ( nombre varchar2(10), fcha date, edad number)
+create table cliente ( nombre varchar2(10), fcha date, edad number) tablespace hola;
+----
+
+---
+--
+Muy rapido help
 
  
 
